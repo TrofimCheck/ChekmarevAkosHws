@@ -1,3 +1,0 @@
-/Users/trofimcheck/CLionProjects/ChekmarevAkosHw7/cmake-build-debug/CMakeFiles/ChekmarevAkosHw7.dir
-/Users/trofimcheck/CLionProjects/ChekmarevAkosHw7/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/trofimcheck/CLionProjects/ChekmarevAkosHw7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

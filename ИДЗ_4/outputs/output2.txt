@@ -1,0 +1,104 @@
+Garden size: 6x8, obstacles: 10 (22%)
+pass_time_us=80000, work_time1_us=240000, work_time2_us=160000
+
+Initial garden state (M=6, N=8):
+# # # . . . . # 
+. . . . . . . . 
+. . . . # . . . 
+. . . # # . . . 
+. . . . . # . . 
+. . # . . # . . 
+
+Random seed: 42
+
+Gardener 1 started.
+Gardener 2 started.
+Gardener 2 processed cell (5,7)
+Gardener 2 processed cell (4,7)
+Gardener 1 processed cell (0,3)
+Gardener 2 processed cell (3,7)
+Gardener 2 processed cell (2,7)
+Gardener 1 processed cell (0,4)
+Gardener 2 processed cell (1,7)
+Gardener 1 processed cell (0,5)
+Gardener 2 processed cell (0,6)
+Gardener 2 processed cell (1,6)
+Gardener 1 skipped cell (0,6), state=2
+Gardener 2 processed cell (2,6)
+Gardener 1 skipped cell (1,7), state=2
+Gardener 1 skipped cell (1,6), state=2
+Gardener 2 processed cell (3,6)
+Gardener 1 processed cell (1,5)
+Gardener 2 processed cell (4,6)
+Gardener 1 processed cell (1,4)
+Gardener 2 processed cell (5,6)
+Gardener 1 processed cell (1,3)
+Gardener 2 processed cell (3,5)
+Gardener 1 processed cell (1,2)
+Gardener 2 processed cell (2,5)
+Gardener 1 processed cell (1,1)
+Gardener 2 skipped cell (1,5), state=1
+Gardener 2 skipped cell (0,5), state=1
+Gardener 2 skipped cell (0,4), state=1
+Gardener 1 processed cell (1,0)
+Gardener 2 skipped cell (1,4), state=1
+Gardener 1 processed cell (2,0)
+Gardener 2 processed cell (4,4)
+Gardener 2 processed cell (5,4)
+Gardener 1 processed cell (2,1)
+Gardener 2 processed cell (5,3)
+Gardener 1 processed cell (2,2)
+Gardener 2 processed cell (4,3)
+Gardener 1 processed cell (2,3)
+Gardener 2 skipped cell (2,3), state=1
+Gardener 1 skipped cell (2,5), state=2
+Gardener 2 skipped cell (1,3), state=1
+Gardener 2 skipped cell (0,3), state=1
+Gardener 1 skipped cell (2,6), state=2
+Gardener 1 skipped cell (2,7), state=2
+Gardener 1 skipped cell (3,7), state=2
+Gardener 2 skipped cell (1,2), state=1
+Gardener 1 skipped cell (3,6), state=2
+Gardener 2 skipped cell (2,2), state=1
+Gardener 1 skipped cell (3,5), state=2
+Gardener 2 processed cell (3,2)
+Gardener 2 processed cell (4,2)
+Gardener 1 skipped cell (3,2), state=2
+Gardener 1 processed cell (3,1)
+Gardener 2 processed cell (5,1)
+Gardener 2 processed cell (4,1)
+Gardener 1 processed cell (3,0)
+Gardener 2 skipped cell (3,1), state=1
+Gardener 1 processed cell (4,0)
+Gardener 2 skipped cell (2,1), state=1
+Gardener 2 skipped cell (1,1), state=1
+Gardener 1 skipped cell (4,1), state=2
+Gardener 1 skipped cell (4,2), state=2
+Gardener 2 skipped cell (1,0), state=1
+Gardener 2 skipped cell (2,0), state=1
+Gardener 1 skipped cell (4,3), state=2
+Gardener 2 skipped cell (3,0), state=1
+Gardener 1 skipped cell (4,4), state=2
+Gardener 2 skipped cell (4,0), state=1
+Gardener 1 skipped cell (4,6), state=2
+Gardener 2 processed cell (5,0)
+Gardener 1 skipped cell (4,7), state=2
+Gardener 2 finished.
+Gardener 1 skipped cell (5,7), state=2
+Gardener 1 skipped cell (5,6), state=2
+Gardener 1 skipped cell (5,4), state=2
+Gardener 1 skipped cell (5,3), state=2
+Gardener 1 skipped cell (5,1), state=2
+Gardener 1 skipped cell (5,0), state=2
+Gardener 1 finished.
+
+Final garden state (M=6, N=8):
+# # # 1 1 1 2 # 
+1 1 1 1 1 1 2 2 
+1 1 1 1 # 2 2 2 
+1 1 2 # # 2 2 2 
+1 2 2 2 2 # 2 2 
+2 2 # 2 2 # 2 2 
+
+Processed by gardener 1: 16
+Processed by gardener 2: 22
